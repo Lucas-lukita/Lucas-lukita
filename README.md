@@ -10,16 +10,16 @@ Curto transformar ideias em **apps úteis**, focados em performance e boa experi
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=orange)
 
 ---
 
 ## 📌 Projetos em Destaque  
 
-- 📱 **MyFlutterWallet** → Carteira Lightning feita em Flutter  
+- 📱 **Gestão de Filas ** → Carteira Lightning feita em Flutter  
 - ₿ **Satoshi Explorer** → Explorador e monitor de transações Bitcoin on-chain  
-- 🌍 **APIs Backend** → Estruturadas em Controllers, Models e Services  
+- 🌍 **APIs Backend** → Estruturadas em Controllers, Models e Services
+- Certificado ABCRIPTO → certificação no mercado cripto
 
 👉 Confira mais nos meus repositórios: [@Lucas-lukita](https://github.com/Lucas-lukita)  
 
@@ -34,8 +34,8 @@ Curto transformar ideias em **apps úteis**, focados em performance e boa experi
 
 ## 📫 Onde me encontrar  
 
-- 💼 [LinkedIn](https://linkedin.com) *(coloque seu link real)*  
-- 📧 **Email:** seuemail@exemplo.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luccas-nogueira-27261a186)
+  
 
 ---
 
