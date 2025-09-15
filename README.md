@@ -1,51 +1,42 @@
-# 👋 Olá, eu sou o Lucas  
+# 👋 Fala aí, eu sou o Lucas  
 
-💻 Desenvolvedor com foco em **Dart**, **Flutter** e **Blockchain**.  
-Transformo ideias em soluções digitais — de aplicativos móveis até integrações com o ecossistema Bitcoin.  
-
----
-
-## 🚀 Skills  
-- **Linguagens:** Dart, Go (aprendizado), JavaScript  
-- **Mobile:** Flutter (arquitetura limpa, Atomic Design, state management)  
-- **Blockchain:** Bitcoin, Lightning Network, integrações de carteira  
-- **Outros:** Git, REST APIs, Firebase, SQL/NoSQL  
+💻 Desenvolvedor apaixonado por **Dart**, **Flutter** e **Blockchain**.  
+Curto transformar ideias em **apps úteis**, focados em performance e boa experiência.  
 
 ---
 
-## 📊 Gráficos Animados  
+## 🚀 Tech Stack  
 
-### 📈 Evolução de Commits  
-![Evolução de commits](./assets/commits_evolution.gif)  
-
-### 🌐 Uso de Linguagens  
-![Top Languages](./assets/top_langs_animated.gif)  
-
-### ₿ Simulação Blockchain (exemplo)  
-![Taxa on-chain](./assets/onchain_fee_simulation.gif)  
-
-> Os gráficos são gerados via Python + Matplotlib + ImageIO e atualizados automaticamente pelo GitHub Actions.  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=orange)
 
 ---
 
 ## 📌 Projetos em Destaque  
-- 📱 **Biblioteca Sonora ** → Gravador de Áudio com Flutter 
-- ₿ **Satoshi Explorer - Private ** → Monitor de transações Bitcoin on-chain  
-- 🌍 **Fila de atendimento** → Gestão de Filas de estabelecimento  
 
-Confira mais nos meus repositórios 👉 [@Lucas-lukita](https://github.com/Lucas-lukita)  
+- 📱 **MyFlutterWallet** → Carteira Lightning feita em Flutter  
+- ₿ **Satoshi Explorer** → Explorador e monitor de transações Bitcoin on-chain  
+- 🌍 **APIs Backend** → Estruturadas em Controllers, Models e Services  
+
+👉 Confira mais nos meus repositórios: [@Lucas-lukita](https://github.com/Lucas-lukita)  
 
 ---
 
 ## 📈 Estatísticas  
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-lukita&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lukita&layout=compact&theme=radical)  
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-lukita&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lukita&layout=compact&theme=tokyonight)  
 
 ---
 
-## 📫 Contato  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luccas-nogueira-27261a186)
+## 📫 Onde me encontrar  
+
+- 💼 [LinkedIn](https://linkedin.com) *(coloque seu link real)*  
+- 📧 **Email:** seuemail@exemplo.com  
 
 ---
 
-✨ Sempre aberto a colaborações e novas ideias. Bora construir o futuro juntos! 🚀  
+✨ Bora construir o futuro juntos? 🚀  
